@@ -1,0 +1,22 @@
+body {
+  background-color: greenyellow;
+}
+h1 {
+  color: green;
+  background-color: rgb(116, 204, 116);
+  text-align: center;
+}
+p {
+  font-style: italic;
+}
+#txtNombre {
+  background-color: rgb(41, 172, 41);
+  display: block;
+  margin: auto;
+}
+#clickear {
+  background-color: black;
+  color: greenyellow;
+  display: block;
+  margin: auto;
+}
